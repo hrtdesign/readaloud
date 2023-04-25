@@ -1,4 +1,4 @@
-This repo is deployed at https://github.com/hrtdesign/readaloud
+This repo is deployed at https://hrtdesign.github.io/readaloud/
 
 # Getting Started with Create React App
 
