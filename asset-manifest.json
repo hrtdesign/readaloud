@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readaloud/static/css/main.23d1bf09.css",
+    "main.js": "/readaloud/static/js/main.bf0ca38a.js",
+    "static/js/787.e865e608.chunk.js": "/readaloud/static/js/787.e865e608.chunk.js",
+    "index.html": "/readaloud/index.html",
+    "main.23d1bf09.css.map": "/readaloud/static/css/main.23d1bf09.css.map",
+    "main.bf0ca38a.js.map": "/readaloud/static/js/main.bf0ca38a.js.map",
+    "787.e865e608.chunk.js.map": "/readaloud/static/js/787.e865e608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d1bf09.css",
+    "static/js/main.bf0ca38a.js"
+  ]
+}
