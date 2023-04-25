@@ -18,7 +18,7 @@ export function HeroSection() {
                     </div>
                 </div>
                 <div className="hero-image-wrap w-full md:w-2/4">
-                    <img src="/images/hero.png" alt="ReadAloud" className="ml-auto shadow-lg rounded" loading="lazy"/>
+                    <img src="images/hero.png" alt="ReadAloud" className="ml-auto shadow-lg rounded" loading="lazy"/>
                 </div>
             </div>
         </section>
