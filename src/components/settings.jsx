@@ -1,7 +1,7 @@
 export function Settings() {
     return(
         <section className="container mx-auto flex gap-y-20  mt-[80px] flex-wrap">
-            <img src="images/admin-settings.png" alt="Admin Settings" loading="lazy" className="md:w-1/2 shadow-md w-full"/>
+            <img src="/readaloud/images/admin-settings.png" alt="Admin Settings" loading="lazy" className="md:w-1/2 shadow-md w-full"/>
             <div className="self-center md:w-1/2 w-full md:pl-[40px] sm:pl-[0px]">
                 <h2 className={'text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl'}>Admin Settings</h2>
                 <ul className={'mt-[30px] list-disc text-lg max-w-screen-md mx-auto flex flex-col gap-y-3 pl-[20px]'}>

@@ -7,6 +7,7 @@ export function Features() {
                     <li>Allows users to listen to your blog content instead of reading it.</li>
                     <li>Highlights the spoken words in real-time, so users can follow along with ease.</li>
                     <li>Lets users pause and resume the speech playback at any time.</li>
+                    <li>Auto scroll on listen paragraph/heading.</li>
                     <li>Provides a more engaging user experience for your audience.</li>
                     <li>Helps you meet accessibility standards by providing a user-friendly tool for people with visual impairments or reading difficulties.</li>
                     <li>Compatible with all major WordPress themes and plugins.</li>
